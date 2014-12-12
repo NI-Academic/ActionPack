@@ -1,0 +1,26 @@
+Problem Type	Text	Picture Path	Solution Type	NumSolutionMin	     NumSolutionMax	Sig Fig?	#SigFigs	TextAnswerKey	     ExactTextMatch?	MultiText1	    MultiAnswer1	MultiText2	MultiAnswer2	MultiText3	MultiAnswer3	MultiText4	MultiAnswer4	MultiText5	MultiAnswer5	T/F_Answer
+Text	What was Daniel Bernoulli?s major contribution to our understanding of water power?		Text																	
+Image		C:\Users\NIK12\Desktop\Question2.png	SelectOne							A	TRUE	B		C		D				
+Image		C:\Users\NIK12\Desktop\Question3.png	SelectOne							A	TRUE	B		C		D				
+Image		C:\Users\NIK12\Desktop\Question4.png	Text																	
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
