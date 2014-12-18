@@ -1,0 +1,24 @@
+Problem Type	Text	Picture Path	Solution Type	NumSolutionMin	NumSolutionMax	Sig Fig?	#SigFigs	TextAnswerKey	ExactTextMatch?	MultiText1	MultiAnswer1	MultiText2	MultiAnswer2	MultiText3	MultiAnswer3	MultiText4	MultiAnswer4	MultiText5	MultiAnswer5	T/F_Answer
+Text	"Enter ""AAA"""		Text					AAA	Yes											
+Text & Image	Which one is conductive	C:\Users\husmith\Documents\GitHub\Action Pack\Quiz\Question3.png	SelectOne							AA		BB	TRUE	CC						
+Text	Select the Vowels		SelectMulti							A'	TRUE	B'	FALSE	E'	TRUE	D'	FALSE	U'	TRUE	
+Text	Select True		True/False																	TRUE
+Text & Image	8<x<10 (3 sig figs)	C:\Users\husmith\Documents\GitHub\Action Pack\Quiz\Question2.png	Numeric	8	10	Yes	3													
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				

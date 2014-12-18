@@ -1,0 +1,26 @@
+Problem Type	Text	Picture Path	Solution Type	NumSolutionMin	     NumSolutionMax	Sig Fig?	#SigFigs	TextAnswerKey	     ExactTextMatch?	MultiText1	    MultiAnswer1	MultiText2	MultiAnswer2	MultiText3	MultiAnswer3	MultiText4	MultiAnswer4	MultiText5	MultiAnswer5	T/F_Answer
+Text	What was Daniel Bernoulli’s major contribution to our understanding of water power?		Text																	
+Image		C:\Users\husmith\Documents\GitHub\Action Pack\Quiz\Question1.png	SelectOne							A	TRUE	B		C		D				
+Image		C:\Users\husmith\Documents\GitHub\Action Pack\Quiz\Question2.png	SelectOne							A	TRUE	B		C		D				
+Image		C:\Users\husmith\Documents\GitHub\Action Pack\Quiz\Question3.png	Text					Boi!	Yes											
+Text & Image	Whats the Deal?		SelectMulti							What?	TRUE	Who	TRUE	Potato		Ship				
+Text	Holla at ya boy!		True/False																	Flase
+Text	Whats your number?		Numeric	88	90	Yes	2													
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
